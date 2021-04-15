@@ -1,0 +1,36 @@
+a {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h1 {
+  font-family:arial;
+  text-align:center;
+}
+
+title {
+  vertical-align: text-top;
+  font-family:arial;
+}
+
+img {
+  position:relative;
+  top: 40px;
+  width:340px;
+  height:400px;
+}
+
+.jumbotron {
+    background-color: black;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
